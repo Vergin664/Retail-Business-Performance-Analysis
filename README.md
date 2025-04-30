@@ -5,7 +5,7 @@ This project analyzes transactional retail data to uncover insights related to p
 
 ## 🧰 Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
-- SQL (MySQL/PostgreSQL)
+- SQL (MySQL)
 - Power BI
 
 ## 📈 Key Metrics & Visuals
